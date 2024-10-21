@@ -1,0 +1,19 @@
+Here are simplified descriptions for AWS EC2 instance types, with examples:
+
+- **General Purpose (T, M series)**: Balanced for everyday tasks like running websites or apps (e.g., web servers, small databases).
+- **Compute Optimized (C series)**: Great for tasks that need a lot of processing power, like running machine learning models (e.g., video processing).
+- **Memory Optimized (R, X, Z series)**: Perfect for apps that need a lot of memory, like big databases (e.g., data analytics, in-memory caching).
+- **Storage Optimized (I, D, H series)**: Ideal for workloads that need fast storage access, like large file systems (e.g., NoSQL databases).
+- **Accelerated Computing (P, G, Inf, F series)**: Uses GPUs or other accelerators for high-performance tasks (e.g., machine learning, graphics rendering).
+- **High Memory (u-series)**: Designed for very large databases that run in memory (e.g., SAP HANA).
+
+This should keep it clear and easy for your resume!
+
+
+Here are the types of Amazon EBS (Elastic Block Store) volumes with brief descriptions:
+
+- **General Purpose SSD (gp3, gp2)**: Balanced performance and cost, suitable for most workloads like boot volumes and small databases.
+- **Provisioned IOPS SSD (io2, io1)**: High-performance SSD for I/O-intensive applications like large databases or critical workloads.
+- **Throughput Optimized HDD (st1)**: Low-cost storage for workloads that need high throughput, like big data and data warehouses.
+- **Cold HDD (sc1)**: Lowest-cost storage for infrequently accessed data, like backups or archives.
+- **Magnetic (standard)**: Legacy magnetic storage for small workloads, usually not recommended for new applications.
